@@ -1,0 +1,13 @@
+BasedOnStyle: WebKit
+AlignAfterOpenBracket: AlwaysBreak
+AlignConsecutiveMacros: true
+BreakBeforeBinaryOperators: None
+DerivePointerAlignment: false
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Middle
+SortIncludes: false
+SpaceAfterLogicalNot: false
+SpaceInEmptyParentheses: false
+ColumnLimit: 120
+AllowShortFunctionsOnASingleLine: None
+BinPackArguments: false
